@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: LXKL
 logo: 
 author: themefisher
 description: this is meta description
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Tach! Ich bin <br> Alex Kahl <br> ohne Voka(h)le LXKL ;)
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -131,7 +131,7 @@ services:
     name: UI Design,
     icon: ti-palette,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
+    active: true
   }
 - {
     name: UX Design,
